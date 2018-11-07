@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1001290109073",
+    "firebase_url": "https://kakashki-98781.firebaseio.com",
+    "project_id": "kakashki-98781",
+    "storage_bucket": "kakashki-98781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001290109073:android:423887c8ba7d118a",
+        "android_client_info": {
+          "package_name": "com.example.kakahi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001290109073-76dnck5cfqbdi8ih09bmubhe03bltcsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kakahi",
+            "certificate_hash": "3acbc266ceaac058869d5c53b79a7d9132a90404"
+          }
+        },
+        {
+          "client_id": "1001290109073-sjjovi0aaq138alcbmvc7hqddkjpu9n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPdZ1JMXBR5eZWW17HTuNojCEDli1qFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001290109073-sjjovi0aaq138alcbmvc7hqddkjpu9n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

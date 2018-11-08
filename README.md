@@ -1,8 +1,5 @@
-# prankakashki
+# Flutter Google Auth + Email-Password + Firebase Authentication
 
-A new Flutter application.
+Basic Flutter techniques.
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
